@@ -1,4 +1,4 @@
-# ./ansible-nginx/tasks/install_nginx.yml
+# ./tasks/install_nginx.yml
  
 - name: NGINX | Installing NGINX repo rpm
   yum:
